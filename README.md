@@ -1,1 +1,1 @@
-# Azure-Database-for_MySQL-Single-Server
+# Azure Database for MySQL Single Server
